@@ -1,2 +1,2 @@
 # blogtest2020
-Blog Test using Angular
+Blog Test with Angular JHIPSTER
